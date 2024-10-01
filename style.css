@@ -109,3 +109,29 @@ figcaption{
     width: 400px;
     height: 250px;
 }
+/*about section the call to action */
+.about {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #E5E7EB;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.about-text {
+    font-size: 16px;
+    flex: 1;
+    padding: 4px;
+    text-align: start;
+}
+
+.about-btn{
+    color: #E5E7EB;
+    border: 2px solid #F9FAF8;
+    width: 80px;
+    height: 30px;
+    margin-top: 25px;
+    margin-right: 10px;
+}
