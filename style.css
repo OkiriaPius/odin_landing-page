@@ -135,3 +135,14 @@ figcaption{
     margin-top: 25px;
     margin-right: 10px;
 }
+
+/*for footer and contacts */
+.contacts-info {
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 20px;
+    gap: 5px;
+}
